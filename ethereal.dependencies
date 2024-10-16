@@ -3,7 +3,7 @@
   {
     "repository": "system_qcom",
     "target_path": "system/qcom",
-    "branch": "qpr3",
-    "remote": "euclid"
+    "branch": "A14",
+    "remote": "ethereal"
   }
 ]
